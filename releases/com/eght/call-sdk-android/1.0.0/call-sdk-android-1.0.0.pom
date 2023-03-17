@@ -44,9 +44,9 @@
       <version>1.5.2</version>
     </dependency>
     <dependency>
-      <groupId>WaveCellVoiceSDK</groupId>
-      <artifactId>sip-sdk</artifactId>
-      <version>unspecified</version>
+      <groupId>com.eght</groupId>
+      <artifactId>sip-sdk-android</artifactId>
+      <version>1.0.0</version>
     </dependency>
   </dependencies>
 </project>
