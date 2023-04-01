@@ -74,9 +74,9 @@
       <version>2.6.0</version>
     </dependency>
     <dependency>
-      <groupId>WaveCellVoiceSDK</groupId>
-      <artifactId>call</artifactId>
-      <version>unspecified</version>
+      <groupId>com.eght</groupId>
+      <artifactId>call-sdk-android</artifactId>
+      <version>0.0.1</version>
     </dependency>
   </dependencies>
 </project>
