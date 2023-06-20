@@ -19,9 +19,9 @@
       <version>1.9.0</version>
     </dependency>
     <dependency>
-      <groupId>WaveCellVoiceSDK</groupId>
-      <artifactId>logger</artifactId>
-      <version>unspecified</version>
+      <groupId>com.eght</groupId>
+      <artifactId>logger-sdk-android</artifactId>
+      <version>0.0.2</version>
     </dependency>
     <dependency>
       <groupId>com.squareup.retrofit2</groupId>
@@ -81,11 +81,6 @@
     <dependency>
       <groupId>com.eght</groupId>
       <artifactId>call-sdk-android</artifactId>
-      <version>0.0.2</version>
-    </dependency>
-    <dependency>
-      <groupId>com.eght</groupId>
-      <artifactId>logger-sdk-android</artifactId>
       <version>0.0.2</version>
     </dependency>
   </dependencies>
